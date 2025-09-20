@@ -25,3 +25,4 @@ terraform init
 # Plan and apply
 terraform plan
 terraform apply
+ 
